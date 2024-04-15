@@ -23,7 +23,7 @@ To run this project locally you can use docker compose provided in the repositor
 
 Clone the repository
 ```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+$ git clone https://github.com/varshith09red/mern-ecommerce.git
 ```
 
 Edit the dockercompose.yml file and update the the values for MONGO_URI and JWT_SECRET
